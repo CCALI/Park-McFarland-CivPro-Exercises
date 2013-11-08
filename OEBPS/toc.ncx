@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="1234" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Computer-Aided Exercises on Civil Procedure, 6th ed.</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Computer-Aided Exercises on Civil Procedure, 7th ed.</text>
+      </navLabel>
+      <content src="Text/title.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>EXERCISE ONE - Holding and Dicta in the Context of a Diversity Case</text>
+        </navLabel>
+        <content src="Text/Exercise%20One%20-%20Holding%20and%20Dicta%20in%20the%20Context%20of%20a%20Diversity%20Case.html"/>
+        <navPoint id="navPoint-3" playOrder="3">
+          <navLabel>
+            <text>I. OF STARE DECISIS, HOLDING, AND DICTA</text>
+          </navLabel>
+          <content src="Text/Exercise%20One%20-%20Holding%20and%20Dicta%20in%20the%20Context%20of%20a%20Diversity%20Case.html#heading_id_3"/>
+          <navPoint id="navPoint-4" playOrder="4">
+            <navLabel>
+              <text>A. The Law of Stare Decisis</text>
+            </navLabel>
+            <content src="Text/Exercise%20One%20-%20Holding%20and%20Dicta%20in%20the%20Context%20of%20a%20Diversity%20Case.html#heading_id_4"/>
+          </navPoint>
+          <navPoint id="navPoint-5" playOrder="5">
+            <navLabel>
+              <text>B. The Concepts of Holding and Dictum</text>
+            </navLabel>
+            <content src="Text/Exercise%20One%20-%20Holding%20and%20Dicta%20in%20the%20Context%20of%20a%20Diversity%20Case.html#heading_id_5"/>
+          </navPoint>
+          <navPoint id="navPoint-6" playOrder="6">
+            <navLabel>
+              <text>C. Stating the Holding of a Case in Class</text>
+            </navLabel>
+            <content src="Text/Exercise%20One%20-%20Holding%20and%20Dicta%20in%20the%20Context%20of%20a%20Diversity%20Case.html#heading_id_6"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>II. WRITTEN EXERCISE: STATING THE HOLDING OF A CASE</text>
+          </navLabel>
+          <content src="Text/Exercise%20One%20-%20Holding%20and%20Dicta%20in%20the%20Context%20of%20a%20Diversity%20Case.html#heading_id_7"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>III. COMPUTER–AIDED EXERCISE: BAKER V. KECK</text>
+          </navLabel>
+          <content src="Text/Exercise%20One%20-%20Holding%20and%20Dicta%20in%20the%20Context%20of%20a%20Diversity%20Case.html#heading_id_8"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>EXERCISE TWO - Jurisdiction</text>
+        </navLabel>
+        <content src="Text/Exercise%20Two%20-%20Jurisdiction.html"/>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>I. THE LAW OF JURISDICTION</text>
+          </navLabel>
+          <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_3"/>
+          <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+              <text>A. Types of Jurisdiction</text>
+            </navLabel>
+            <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_4"/>
+          </navPoint>
+          <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+              <text>B. Subject Matter Jurisdiction</text>
+            </navLabel>
+            <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_5"/>
+          </navPoint>
+          <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+              <text>C. Personal Jurisdiction</text>
+            </navLabel>
+            <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_6"/>
+          </navPoint>
+          <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+              <text>D. Notice and Opportunity to Be Heard</text>
+            </navLabel>
+            <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_7"/>
+          </navPoint>
+          <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+              <text>E. Venue</text>
+            </navLabel>
+            <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_8"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>II. QUESTIONS ON JURISDICTION</text>
+          </navLabel>
+          <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_9"/>
+          <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+              <text>A. Subject Matter Jurisdiction</text>
+            </navLabel>
+            <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_16"/>
+          </navPoint>
+          <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+              <text>B. Personal Jurisdiction</text>
+            </navLabel>
+            <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_10"/>
+          </navPoint>
+          <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+              <text>C. Notice and Opportunity to Be Heard</text>
+            </navLabel>
+            <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_11"/>
+          </navPoint>
+          <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+              <text>D. Venue</text>
+            </navLabel>
+            <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_12"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>III. COMPUTER EXERCISES</text>
+          </navLabel>
+          <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_13"/>
+          <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+              <text>A. CALI CIV 03: Jurisdiction and Venue</text>
+            </navLabel>
+            <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_14"/>
+          </navPoint>
+          <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+              <text>B. CALI CIV 19: Jurisdiction Over the Person</text>
+            </navLabel>
+            <content src="Text/Exercise%20Two%20-%20Jurisdiction.html#heading_id_15"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>EXERCISE THREE - Pleading a Complaint</text>
+        </navLabel>
+        <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html"/>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>I. HISTORY OF PLEADING</text>
+          </navLabel>
+          <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html#heading_id_3"/>
+          <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+              <text>A. Pleading under the Common Law</text>
+            </navLabel>
+            <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html#heading_id_4"/>
+          </navPoint>
+          <navPoint id="navPoint-27" playOrder="27">
+            <navLabel>
+              <text>B. Pleading under the Codes</text>
+            </navLabel>
+            <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html#heading_id_5"/>
+          </navPoint>
+          <navPoint id="navPoint-28" playOrder="28">
+            <navLabel>
+              <text>C. Pleading under the Federal Rules of Civil Procedure</text>
+            </navLabel>
+            <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html#heading_id_6"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>II. DRAFTING A COMPLAINT UNDER THE FEDERAL RULES</text>
+          </navLabel>
+          <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html#heading_id_7"/>
+          <navPoint id="navPoint-30" playOrder="30">
+            <navLabel>
+              <text>A. Form of the Complaint</text>
+            </navLabel>
+            <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html#heading_id_8"/>
+          </navPoint>
+          <navPoint id="navPoint-31" playOrder="31">
+            <navLabel>
+              <text>B. Content of the Complaint</text>
+            </navLabel>
+            <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html#heading_id_9"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>III. AN EXERCISE IN DRAFTING A COMPLAINT FOR DEFAMATION UNDER THE FEDERAL RULES: CALI CIV 01</text>
+          </navLabel>
+          <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html#heading_id_10"/>
+          <navPoint id="navPoint-33" playOrder="33">
+            <navLabel>
+              <text>A. Facts of the Case</text>
+            </navLabel>
+            <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html#heading_id_11"/>
+          </navPoint>
+          <navPoint id="navPoint-34" playOrder="34">
+            <navLabel>
+              <text>B. Substantive Law of Defamation</text>
+            </navLabel>
+            <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html#heading_id_12"/>
+          </navPoint>
+          <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+              <text>C. Procedural Law: the Burden of Pleading</text>
+            </navLabel>
+            <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html#heading_id_13"/>
+          </navPoint>
+          <navPoint id="navPoint-36" playOrder="36">
+            <navLabel>
+              <text>D. Preliminary Questions</text>
+            </navLabel>
+            <content src="Text/Exercise%20Three%20-%20Pleading%20a%20Complaint.html#heading_id_14"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>EXERCISE FOUR - Demurrers and Judgments on the Pleadings</text>
+        </navLabel>
+        <content src="Text/Exercise%20Four%20-%20Demurrers%20and%20Judgements%20on%20the%20Pleadings.html"/>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>I. SUBSTANTIVE LAW</text>
+          </navLabel>
+          <content src="Text/Exercise%20Four%20-%20Demurrers%20and%20Judgements%20on%20the%20Pleadings.html#heading_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>II. PROCEDURAL LAW</text>
+          </navLabel>
+          <content src="Text/Exercise%20Four%20-%20Demurrers%20and%20Judgements%20on%20the%20Pleadings.html#heading_id_4"/>
+          <navPoint id="navPoint-40" playOrder="40">
+            <navLabel>
+              <text>A. Burden of Pleading</text>
+            </navLabel>
+            <content src="Text/Exercise%20Four%20-%20Demurrers%20and%20Judgements%20on%20the%20Pleadings.html#heading_id_5"/>
+          </navPoint>
+          <navPoint id="navPoint-41" playOrder="41">
+            <navLabel>
+              <text>B. Sequence of Code Pleadings and Motions</text>
+            </navLabel>
+            <content src="Text/Exercise%20Four%20-%20Demurrers%20and%20Judgements%20on%20the%20Pleadings.html#heading_id_6"/>
+          </navPoint>
+          <navPoint id="navPoint-42" playOrder="42">
+            <navLabel>
+              <text>C. The General Demurrer</text>
+            </navLabel>
+            <content src="Text/Exercise%20Four%20-%20Demurrers%20and%20Judgements%20on%20the%20Pleadings.html#heading_id_7"/>
+          </navPoint>
+          <navPoint id="navPoint-43" playOrder="43">
+            <navLabel>
+              <text>D. The Motion for Judgment on the Pleadings</text>
+            </navLabel>
+            <content src="Text/Exercise%20Four%20-%20Demurrers%20and%20Judgements%20on%20the%20Pleadings.html#heading_id_8"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>III. PRELIMINARY QUESTIONS</text>
+          </navLabel>
+          <content src="Text/Exercise%20Four%20-%20Demurrers%20and%20Judgements%20on%20the%20Pleadings.html#heading_id_9"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>EXERCISE FIVE - Motions to Dismiss and Waiver Under Federal Rule 12</text>
+        </navLabel>
+        <content src="Text/Exercise%20Five%20-%20Motions%20to%20Dismiss%20and%20Waiver%20Under%20Federal%20Rule%2012.html"/>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>I. RAISING, AND WAIVING, RULE 12 DEFENSES</text>
+          </navLabel>
+          <content src="Text/Exercise%20Five%20-%20Motions%20to%20Dismiss%20and%20Waiver%20Under%20Federal%20Rule%2012.html#heading_id_3"/>
+          <navPoint id="navPoint-47" playOrder="47">
+            <navLabel>
+              <text>A. The Federal Rule 12(b) Defenses</text>
+            </navLabel>
+            <content src="Text/Exercise%20Five%20-%20Motions%20to%20Dismiss%20and%20Waiver%20Under%20Federal%20Rule%2012.html#heading_id_4"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>II. WRITTEN EXERCISE</text>
+          </navLabel>
+          <content src="Text/Exercise%20Five%20-%20Motions%20to%20Dismiss%20and%20Waiver%20Under%20Federal%20Rule%2012.html#heading_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>III. COMPUTER EXERCISE: CALI CIV 09</text>
+          </navLabel>
+          <content src="Text/Exercise%20Five%20-%20Motions%20to%20Dismiss%20and%20Waiver%20Under%20Federal%20Rule%2012.html#heading_id_6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>EXERCISE SIX - Joinder and Supplemental Jurisdiction</text>
+        </navLabel>
+        <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html"/>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>I. INTRODUCTION</text>
+          </navLabel>
+          <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_3"/>
+          <navPoint id="navPoint-52" playOrder="52">
+            <navLabel>
+              <text>A. Joinder Devices Available under the Federal Rules</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_4"/>
+          </navPoint>
+          <navPoint id="navPoint-53" playOrder="53">
+            <navLabel>
+              <text>B. Supplemental Jurisdiction</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_5"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>II. THE JOINDER DEVICES</text>
+          </navLabel>
+          <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_6"/>
+          <navPoint id="navPoint-55" playOrder="55">
+            <navLabel>
+              <text>A. Claims</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_7"/>
+          </navPoint>
+          <navPoint id="navPoint-56" playOrder="56">
+            <navLabel>
+              <text>B. Counterclaims</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_8"/>
+          </navPoint>
+          <navPoint id="navPoint-57" playOrder="57">
+            <navLabel>
+              <text>C. Crossclaims</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_9"/>
+          </navPoint>
+          <navPoint id="navPoint-58" playOrder="58">
+            <navLabel>
+              <text>D. Third-party claims [also known as Impleader]</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_10"/>
+          </navPoint>
+          <navPoint id="navPoint-59" playOrder="59">
+            <navLabel>
+              <text>E. Joinder of Parties</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_11"/>
+          </navPoint>
+          <navPoint id="navPoint-60" playOrder="60">
+            <navLabel>
+              <text>F. Intervention</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_12"/>
+          </navPoint>
+          <navPoint id="navPoint-61" playOrder="61">
+            <navLabel>
+              <text>G. Interpleader</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_13"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>III. QUESTIONS ON JOINDER</text>
+          </navLabel>
+          <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_14"/>
+          <navPoint id="navPoint-63" playOrder="63">
+            <navLabel>
+              <text>A. Counterclaims</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_15"/>
+          </navPoint>
+          <navPoint id="navPoint-64" playOrder="64">
+            <navLabel>
+              <text>B. Crossclaims</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_16"/>
+          </navPoint>
+          <navPoint id="navPoint-65" playOrder="65">
+            <navLabel>
+              <text>C. Third-party claims</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_17"/>
+          </navPoint>
+          <navPoint id="navPoint-66" playOrder="66">
+            <navLabel>
+              <text>D. Joinder of Parties</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_18"/>
+          </navPoint>
+          <navPoint id="navPoint-67" playOrder="67">
+            <navLabel>
+              <text>E. Intervention</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_19"/>
+          </navPoint>
+          <navPoint id="navPoint-68" playOrder="68">
+            <navLabel>
+              <text>F. Interpleader</text>
+            </navLabel>
+            <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_20"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>IV. COMPUTER EXERCISES</text>
+          </navLabel>
+          <content src="Text/Exercise%20Six%20-%20Joinder%20and%20Supplemental%20Jurisdiction.html#heading_id_21"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>EXERCISE SEVEN - Discovery</text>
+        </navLabel>
+        <content src="Text/Exercise%20Seven%20-%20Discovery.html"/>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>I. DISCOVERY UNDER THE FEDERAL RULES</text>
+          </navLabel>
+          <content src="Text/Exercise%20Seven%20-%20Discovery.html#heading_id_3"/>
+          <navPoint id="navPoint-72" playOrder="72">
+            <navLabel>
+              <text>A. Philosophy</text>
+            </navLabel>
+            <content src="Text/Exercise%20Seven%20-%20Discovery.html#heading_id_4"/>
+          </navPoint>
+          <navPoint id="navPoint-73" playOrder="73">
+            <navLabel>
+              <text>B. Scope of Discovery</text>
+            </navLabel>
+            <content src="Text/Exercise%20Seven%20-%20Discovery.html#heading_id_5"/>
+          </navPoint>
+          <navPoint id="navPoint-74" playOrder="74">
+            <navLabel>
+              <text>C. Required Disclosures</text>
+            </navLabel>
+            <content src="Text/Exercise%20Seven%20-%20Discovery.html#heading_id_6"/>
+          </navPoint>
+          <navPoint id="navPoint-75" playOrder="75">
+            <navLabel>
+              <text>D. Discovery Devices</text>
+            </navLabel>
+            <content src="Text/Exercise%20Seven%20-%20Discovery.html#heading_id_7"/>
+          </navPoint>
+          <navPoint id="navPoint-76" playOrder="76">
+            <navLabel>
+              <text>E. Sanctions for Failure to Make Discovery</text>
+            </navLabel>
+            <content src="Text/Exercise%20Seven%20-%20Discovery.html#heading_id_8"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-77" playOrder="77">
+          <navLabel>
+            <text>II. QUESTIONS ON DISCOVERY</text>
+          </navLabel>
+          <content src="Text/Exercise%20Seven%20-%20Discovery.html#heading_id_9"/>
+          <navPoint id="navPoint-78" playOrder="78">
+            <navLabel>
+              <text>A. Philosophy of Discovery Under the Federal Rules</text>
+            </navLabel>
+            <content src="Text/Exercise%20Seven%20-%20Discovery.html#heading_id_10"/>
+          </navPoint>
+          <navPoint id="navPoint-79" playOrder="79">
+            <navLabel>
+              <text>B. Scope of Discovery</text>
+            </navLabel>
+            <content src="Text/Exercise%20Seven%20-%20Discovery.html#heading_id_11"/>
+          </navPoint>
+          <navPoint id="navPoint-80" playOrder="80">
+            <navLabel>
+              <text>C. Discovery Devices</text>
+            </navLabel>
+            <content src="Text/Exercise%20Seven%20-%20Discovery.html#heading_id_12"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-81" playOrder="81">
+          <navLabel>
+            <text>III. COMPUTER EXERCISE</text>
+          </navLabel>
+          <content src="Text/Exercise%20Seven%20-%20Discovery.html#heading_id_13"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>EXERCISE EIGHT - Summary Judgment</text>
+        </navLabel>
+        <content src="Text/Exercise%20Eight%20-%20Summary%20Judgement.html"/>
+        <navPoint id="navPoint-83" playOrder="83">
+          <navLabel>
+            <text>I. THE LAW OF SUMMARY JUDGMENT</text>
+          </navLabel>
+          <content src="Text/Exercise%20Eight%20-%20Summary%20Judgement.html#heading_id_3"/>
+          <navPoint id="navPoint-84" playOrder="84">
+            <navLabel>
+              <text>A. Federal Rule 56</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eight%20-%20Summary%20Judgement.html#heading_id_4"/>
+          </navPoint>
+          <navPoint id="navPoint-85" playOrder="85">
+            <navLabel>
+              <text>B. Supreme Court Interpretation of Federal Rule 56</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eight%20-%20Summary%20Judgement.html#heading_id_5"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-86" playOrder="86">
+          <navLabel>
+            <text>II. COMPUTER EXERCISE: CALI CIV 13</text>
+          </navLabel>
+          <content src="Text/Exercise%20Eight%20-%20Summary%20Judgement.html#heading_id_6"/>
+          <navPoint id="navPoint-87" playOrder="87">
+            <navLabel>
+              <text>A. The Law of Battery</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eight%20-%20Summary%20Judgement.html#heading_id_7"/>
+          </navPoint>
+          <navPoint id="navPoint-88" playOrder="88">
+            <navLabel>
+              <text>B. The Facts of the Case</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eight%20-%20Summary%20Judgement.html#heading_id_8"/>
+          </navPoint>
+          <navPoint id="navPoint-89" playOrder="89">
+            <navLabel>
+              <text>C. Questions</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eight%20-%20Summary%20Judgement.html#heading_id_9"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>EXERCISE NINE - Judgment as a Matter of Law</text>
+        </navLabel>
+        <content src="Text/Exercise%20Nine%20-%20Judgment%20as%20a%20Matter%20of%20Law.html"/>
+        <navPoint id="navPoint-91" playOrder="91">
+          <navLabel>
+            <text>I. JUDGMENT AS A MATTER OF LAW</text>
+          </navLabel>
+          <content src="Text/Exercise%20Nine%20-%20Judgment%20as%20a%20Matter%20of%20Law.html#heading_id_3"/>
+          <navPoint id="navPoint-92" playOrder="92">
+            <navLabel>
+              <text>A. Controlling the Jury</text>
+            </navLabel>
+            <content src="Text/Exercise%20Nine%20-%20Judgment%20as%20a%20Matter%20of%20Law.html#heading_id_4"/>
+          </navPoint>
+          <navPoint id="navPoint-93" playOrder="93">
+            <navLabel>
+              <text>B. Judgment as a Matter of Law</text>
+            </navLabel>
+            <content src="Text/Exercise%20Nine%20-%20Judgment%20as%20a%20Matter%20of%20Law.html#heading_id_5"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-94" playOrder="94">
+          <navLabel>
+            <text>II. COMPUTER EXERCISE: CALI CIV 04</text>
+          </navLabel>
+          <content src="Text/Exercise%20Nine%20-%20Judgment%20as%20a%20Matter%20of%20Law.html#heading_id_7"/>
+          <navPoint id="navPoint-95" playOrder="95">
+            <navLabel>
+              <text>A. Introductory Note</text>
+            </navLabel>
+            <content src="Text/Exercise%20Nine%20-%20Judgment%20as%20a%20Matter%20of%20Law.html#heading_id_8"/>
+          </navPoint>
+          <navPoint id="navPoint-96" playOrder="96">
+            <navLabel>
+              <text>B. Cases and Questions</text>
+            </navLabel>
+            <content src="Text/Exercise%20Nine%20-%20Judgment%20as%20a%20Matter%20of%20Law.html#heading_id_9"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>EXERCISE TEN - Evidence for Civil Procedure Students</text>
+        </navLabel>
+        <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html"/>
+        <navPoint id="navPoint-98" playOrder="98">
+          <navLabel>
+            <text>I. SOME BASIC EVIDENCE RULES</text>
+          </navLabel>
+          <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html#heading_id_3"/>
+          <navPoint id="navPoint-99" playOrder="99">
+            <navLabel>
+              <text>A. The Requirement of Personal Knowledge[i]</text>
+            </navLabel>
+            <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html#heading_id_4"/>
+          </navPoint>
+          <navPoint id="navPoint-100" playOrder="100">
+            <navLabel>
+              <text>B. The Hearsay Rule and Its Exceptions[ii]</text>
+            </navLabel>
+            <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html#heading_id_5"/>
+          </navPoint>
+          <navPoint id="navPoint-101" playOrder="101">
+            <navLabel>
+              <text>C. Relevancy and Its Counterweights</text>
+            </navLabel>
+            <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html#heading_id_6"/>
+          </navPoint>
+          <navPoint id="navPoint-102" playOrder="102">
+            <navLabel>
+              <text>D. The Opinion Rule</text>
+            </navLabel>
+            <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html#heading_id_7"/>
+          </navPoint>
+          <navPoint id="navPoint-103" playOrder="103">
+            <navLabel>
+              <text>E. Lawyer–Client Privilege</text>
+            </navLabel>
+            <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html#heading_id_8"/>
+          </navPoint>
+          <navPoint id="navPoint-104" playOrder="104">
+            <navLabel>
+              <text>F. The Best Evidence Rule</text>
+            </navLabel>
+            <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html#heading_id_9"/>
+          </navPoint>
+          <navPoint id="navPoint-105" playOrder="105">
+            <navLabel>
+              <text>G. Leading Questions</text>
+            </navLabel>
+            <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html#heading_id_10"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-106" playOrder="106">
+          <navLabel>
+            <text>II. COMPUTER EXERCISE: CALI CIV 06</text>
+          </navLabel>
+          <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html#heading_id_11"/>
+          <navPoint id="navPoint-107" playOrder="107">
+            <navLabel>
+              <text>A. General Instructions</text>
+            </navLabel>
+            <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html#heading_id_12"/>
+          </navPoint>
+          <navPoint id="navPoint-108" playOrder="108">
+            <navLabel>
+              <text>B. Background Facts About the Lawsuit</text>
+            </navLabel>
+            <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html#heading_id_13"/>
+          </navPoint>
+          <navPoint id="navPoint-109" playOrder="109">
+            <navLabel>
+              <text>C. Display One and Display Two</text>
+            </navLabel>
+            <content src="Text/Exercise%20Ten%20-%20Evidence%20for%20Civil%20Procedure%20Students.html#heading_id_14"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>EXERCISE ELEVEN - Preclusion</text>
+        </navLabel>
+        <content src="Text/Exercise%20Eleven%20-%20Preclusion.html"/>
+        <navPoint id="navPoint-111" playOrder="111">
+          <navLabel>
+            <text>I. INTRODUCTION</text>
+          </navLabel>
+          <content src="Text/Exercise%20Eleven%20-%20Preclusion.html#heading_id_3"/>
+          <navPoint id="navPoint-112" playOrder="112">
+            <navLabel>
+              <text>A. Overview</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eleven%20-%20Preclusion.html#heading_id_4"/>
+          </navPoint>
+          <navPoint id="navPoint-113" playOrder="113">
+            <navLabel>
+              <text>B. Policy</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eleven%20-%20Preclusion.html#heading_id_5"/>
+          </navPoint>
+          <navPoint id="navPoint-114" playOrder="114">
+            <navLabel>
+              <text>C. Affirmative Defense</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eleven%20-%20Preclusion.html#heading_id_6"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-115" playOrder="115">
+          <navLabel>
+            <text>II. THE PRECLUSION DOCTRINES</text>
+          </navLabel>
+          <content src="Text/Exercise%20Eleven%20-%20Preclusion.html#heading_id_7"/>
+          <navPoint id="navPoint-116" playOrder="116">
+            <navLabel>
+              <text>A. Claim Preclusion</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eleven%20-%20Preclusion.html#heading_id_8"/>
+          </navPoint>
+          <navPoint id="navPoint-117" playOrder="117">
+            <navLabel>
+              <text>B. Issue Preclusion</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eleven%20-%20Preclusion.html#heading_id_9"/>
+          </navPoint>
+          <navPoint id="navPoint-118" playOrder="118">
+            <navLabel>
+              <text>C. Exceptions to Preclusion</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eleven%20-%20Preclusion.html#heading_id_10"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-119" playOrder="119">
+          <navLabel>
+            <text>III. QUESTIONS ON PRECLUSION</text>
+          </navLabel>
+          <content src="Text/Exercise%20Eleven%20-%20Preclusion.html#heading_id_11"/>
+          <navPoint id="navPoint-120" playOrder="120">
+            <navLabel>
+              <text>A. Claim Preclusion</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eleven%20-%20Preclusion.html#heading_id_12"/>
+          </navPoint>
+          <navPoint id="navPoint-121" playOrder="121">
+            <navLabel>
+              <text>B. Issue Preclusion</text>
+            </navLabel>
+            <content src="Text/Exercise%20Eleven%20-%20Preclusion.html#heading_id_13"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-122" playOrder="122">
+          <navLabel>
+            <text>IV. COMPUTER EXERCISE: CALI CIV 17</text>
+          </navLabel>
+          <content src="Text/Exercise%20Eleven%20-%20Preclusion.html#heading_id_14"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
